@@ -179,7 +179,7 @@
 		}else if(m_action == 'G'){
 		cout << "                                 *** **   ** ***       Guard!\n";
 		}else if(m_action == 'D'){
-		cout << "                                 *** **   ** ***       Dodge!\n";
+		cout << "                                  *** **   ** ***       Dodge!\n";
 		}else if(m_action == 'U'){
 		cout << "                 " << setw(5) << -m << "           *** **   ** ***       Ultimate Attack!\n";
 		}else{
